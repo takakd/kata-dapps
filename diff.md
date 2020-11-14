@@ -10,7 +10,7 @@
 * Solidity v0.5.16 (solc-js)
 * Web3.js v1.2.9
 
-## 変更点
+## 内容
 
 [Kindleリフロー版](https://www.amazon.co.jp/dp/B079JYHZY3/)に基づいて記載しています。  
 対象はコントラクト実装に関するChapter6から8です。  
